@@ -1,2 +1,2 @@
 # Neural Networks Semester Project
-# Jozef Porubcin
+## Jozef Porubcin
