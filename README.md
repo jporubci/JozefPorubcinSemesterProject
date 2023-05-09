@@ -1,5 +1,6 @@
 # Neural Networks Semester Project
 Author: Jozef Porubcin
+
 Link to Google Colab: https://colab.research.google.com/drive/1WFEzGuNuRDETSa_2aoz_zdg7CnFynQ3Z?usp=sharing
 
 # Report:
