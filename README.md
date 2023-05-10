@@ -1,9 +1,14 @@
 # Neural Networks Semester Project
 Author: Jozef Porubcin
 
+Link to Google Drive: https://drive.google.com/drive/folders/1OdbK8DzVpr1IdABsBJGbgvoQci0r_zE7?usp=sharing
 Link to Google Colab: https://colab.research.google.com/drive/1wFRrAmZO6DuUxexLTW4hSHNDk4qR7asq?usp=sharing
 
 # Report:
+
+### How to test run the model
+
+The .ipynb (linked above) can be run as it is, with just some exceptions. The Google Drive link is given in case it makes running the notebook easier, since the relative path to the fruits dataset directory and other file/directory paths may make the code require some edits. Once it runs, at the very end of the notebook, the output is a single fruit image selected from the dataset, but with increasing levels of noise. You can rerun the code multiple times to see a different fruit image, and the model's predictions.
 
 ### Testing data description
 
